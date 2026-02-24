@@ -1,4 +1,4 @@
-# CS 248A Assignment 3: Path Tracer (Due Feb 27, 11:59 PM PST)
+# CS 248A Assignment 3: Path Tracer (Due Mar 2, 11:59 PM PST)
 
 ## Environment Setup
 
